@@ -1,3 +1,4 @@
+echo "password" > passphrase
 # tarball
 tar -cvJpf backup.tar.xz a/
 # encrypt
